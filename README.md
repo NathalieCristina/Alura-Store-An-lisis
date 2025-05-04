@@ -17,7 +17,7 @@ El objetivo es ayudar al Sr. João a decidir **qué tienda cerrar** dentro de su
 
 ---
 
-## 🧰 Herramientas utilizadas
+##  Herramientas utilizadas
 
 - Python
 - Pandas
@@ -27,5 +27,4 @@ El objetivo es ayudar al Sr. João a decidir **qué tienda cerrar** dentro de su
 
 ---
 
-## 📁 Estructura sugerida del proyecto
 
